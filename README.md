@@ -8,3 +8,5 @@ Methods section
 Metadata section
 
 Variable section
+
+These are changes made on my local machine

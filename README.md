@@ -1,7 +1,7 @@
 # planets_201812
 git lesson from December SW workshop
 
-Detailed discription for others.
+Detailed description for others.
 
 Methods section
 
